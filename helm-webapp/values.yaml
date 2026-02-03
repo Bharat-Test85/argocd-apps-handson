@@ -10,5 +10,4 @@ configmap:
 image:
   name: samply/gbn-sample-locator
   tag: develop
-  imagePullPolicy: Always
 
