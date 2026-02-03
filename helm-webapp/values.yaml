@@ -9,5 +9,6 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  tag: latest
   digest: sha256:84d7ac87c34e73673ece5ac1cedee2696c1001cc293cd17b040eb861d5f5c944
+imagePullPolicy: Always
+
