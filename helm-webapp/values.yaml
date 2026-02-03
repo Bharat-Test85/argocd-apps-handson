@@ -9,6 +9,6 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  digest: sha256:84d7ac87c34e73673ece5ac1cedee2696c1001cc293cd17b040eb861d5f5c944
+  digest: sha256:bd1ec683857029c4fba4af1f931cb9f7aeb34b06a792ae892754681d49f2cdae
 imagePullPolicy: Always
 
