@@ -8,7 +8,7 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: devopsjourney1/mywebapp
-  digest: sha256:bd1ec683857029c4fba4af1f931cb9f7aeb34b06a792ae892754681d49f2cdae
+  name: samply/gbn-sample-locator
+  tag: develop
   imagePullPolicy: Always
 
